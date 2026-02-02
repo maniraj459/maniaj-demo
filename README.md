@@ -1,2 +1,4 @@
-# maniaj-demo
-This is my first repository
+# maniraj-demo
+This is my first repository.
+Autor-Maniraj
+
